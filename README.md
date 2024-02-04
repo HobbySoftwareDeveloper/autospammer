@@ -1,0 +1,2 @@
+# autospammer
+spam your friends ;)
